@@ -3,15 +3,15 @@
 ## About Me.
 I am a Cybersecurity Analyst at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
 I enjoy building practical cybersecurity projects that demostrate real-world skills in:
--Penetration Testing
--Log Analysis
--Malware Analysis
--Digital Forensic
--OSINT
--Threat Hunting
--Social Engineering
--Vulnerability Accessment
--Governance, Risk and Compliance
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensic
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Vulnerability Accessment
+- Governance, Risk and Compliance
 
 ##Projects
 | Project | Description | Respository |
