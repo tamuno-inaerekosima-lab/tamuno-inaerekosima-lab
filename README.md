@@ -1,7 +1,7 @@
 #Hi, I'm Tamuno-ina Erekosima.
 
 ## About Me.
-I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
+I am a Cybersecurity Analyst at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
 I enjoy building practical cybersecurity projects that demostrate real-world skills in:
 -Penetration Testing
 -Log Analysis
